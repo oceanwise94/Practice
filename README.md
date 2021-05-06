@@ -1,3 +1,3 @@
 # Practice with simple example
 
-폴더
+data set
